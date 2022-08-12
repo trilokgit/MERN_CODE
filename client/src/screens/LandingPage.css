@@ -1,0 +1,20 @@
+.main{
+    min-height: 93vh;
+    display: flex;
+    align-items: center;
+    background-image: url("../marissa-grootes-vdaJJbls3xE-unsplash\ \(1\).jpg");
+    background-position: center;
+    background-size: cover;
+}
+.head{
+  font-size: 75px;
+  font-weight: bold;
+}
+
+.lsb{
+    margin-top: 100px;
+}
+
+.loginbtn:hover{
+  color: white;
+}
